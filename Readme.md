@@ -1,30 +1,30 @@
-# Determinador de Ano Bissexto
+# Leap Year Determiner
 
 ![Header](./Header.png)
 
-## Descrição
-O Determinador de Ano Bissexto é um aplicativo desenvolvido no MIT App Inventor que permite aos usuários verificar se um determinado ano é bissexto ou não.
+## Description
+The Leap Year Determiner is an application developed in MIT App Inventor that allows users to check if a specific year is a leap year or not.
 
-## Funcionalidades
-- Verificação de Ano Bissexto
-- Interface Intuitiva
+## Features
+- Leap Year Verification
+- Intuitive Interface
 
-## Como Usar
-1. **Abrir o Aplicativo:** Inicie o aplicativo "Determinador de Ano Bissexto" no seu dispositivo.
-2. **Inserir o Ano:** Digite o ano que deseja verificar na caixa de entrada fornecida.
-3. **Pressionar o Botão "Verificar":** Após inserir o ano, pressione o botão "Verificar".
-4. **Visualizar Resultado:** O aplicativo exibirá uma mensagem indicando se o ano é bissexto ou não.
+## How to Use
+1. **Open the Application:** Launch the "Leap Year Determiner" app on your device.
+2. **Enter the Year:** Type in the year you want to check into the provided input box.
+3. **Press the "Check" Button:** After entering the year, press the "Check" button.
+4. **View Result:** The app will display a message indicating whether the year is a leap year or not.
 
-## Como Instalar
-1. **Baixar o APK:** Baixe o arquivo APK do aplicativo em [link para download].
-2. **Permissões:** Certifique-se de permitir a instalação de aplicativos de fontes desconhecidas nas configurações do seu dispositivo.
-3. **Instalar:** Abra o arquivo APK baixado e siga as instruções na tela para concluir a instalação.
+## How to Install
+1. **Download the APK:** Download the APK file of the app from [download link].
+2. **Permissions:** Make sure to allow installation of apps from unknown sources in your device settings.
+3. **Install:** Open the downloaded APK file and follow the on-screen instructions to complete the installation.
 
-## Tecnologias Utilizadas
+## Technologies Used
 - MIT App Inventor
 
-## Contribuição e Feedback
-Se você tiver ideias para melhorar este aplicativo ou encontrar algum problema, sinta-se à vontade para contribuir ou fornecer feedback.
+## Contribution and Feedback
+If you have any ideas to improve this app or encounter any issues, feel free to contribute or provide feedback.
 
-## Autor
-Desenvolvido por Julia.
+## Author
+Developed by Julia.
