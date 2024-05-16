@@ -2,7 +2,10 @@
 
 ![Readme Header](./ReadmeHeader.png)
 
-[Operation Video](./OperationVideo.mp4)
+<video width="600" controls>
+  <source src="./OperationVideo.mp4" type="video/mp4">
+  Seu navegador não suporta a tag de vídeo.
+</video>
 
 ## Description
 The Leap Year Determiner is an application developed in MIT App Inventor that allows users to check if a specific year is a leap year or not.
