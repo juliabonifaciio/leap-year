@@ -1,11 +1,8 @@
 # Leap Year Determiner
 
-![Readme Header](./ReadmeHeader.png)
-
-<video width="600" controls>
-  <source src="./OperationVideo.mp4" type="video/mp4">
-  Seu navegador não suporta a tag de vídeo.
-</video>
+<div align="center">
+  <img src="./ReadmeHeader.png" alt="Readme Header" width="800"/>
+</div>
 
 ## Description
 The Leap Year Determiner is an application developed in MIT App Inventor that allows users to check if a specific year is a leap year or not.
@@ -24,6 +21,11 @@ The Leap Year Determiner is an application developed in MIT App Inventor that al
 1. **Download the APK:** Download the APK file of the app from [download link].
 2. **Permissions:** Make sure to allow installation of apps from unknown sources in your device settings.
 3. **Install:** Open the downloaded APK file and follow the on-screen instructions to complete the installation.
+
+## Operation Video
+<div align="center">
+  <img src="./OperationVideo.gif" alt="Operation Video" width="800"/>
+</div>
 
 ## Technologies Used
 - MIT App Inventor
